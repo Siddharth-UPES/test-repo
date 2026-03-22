@@ -57,7 +57,7 @@ src
 ### Step 1 — Clone the Repository
 
 ```
-git clone https://github.com/<your-username>/github-access-report.git
+git clone https://github.com/Siddharth-UPES/test-repo/github-access-report.git
 ```
 
 ### Step 2 — Navigate to Project Folder
@@ -234,7 +234,7 @@ Techniques used:
 
 Siddharth Kumar
 MCA Student — UPES
-Java & Backend Development Enthusiast
+Java Full Stack Development Enthusiast
 
 ---
 
